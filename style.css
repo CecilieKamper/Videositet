@@ -58,6 +58,7 @@ video {
     background-color: rgba(18, 38, 90, 0.784);
     padding: 35px;
     margin-bottom: 8%;
+    border-radius: 4%;
 }
 
 .grid1_1_1 {
@@ -77,4 +78,16 @@ p {
     width: 100%;
     background-color: rgb(18, 38, 90);
     text-align: center;
+
+}
+
+.farvet_boks2 {
+    background-color: rgba(18, 38, 90, 0.784);
+    padding: 10px;
+    margin-top: 5%;
+}
+
+video,
+iframe {
+    border-radius: 4%;
 }
